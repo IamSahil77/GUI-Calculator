@@ -33,6 +33,3 @@ Please note that this calculator provides basic arithmetic operations and may no
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code as per the terms of the license.
