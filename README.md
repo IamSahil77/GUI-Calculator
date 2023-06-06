@@ -2,14 +2,6 @@
 
 This is a graphical user interface (GUI) calculator created using HTML, CSS, and JavaScript. It provides a user-friendly interface for performing basic arithmetic calculations.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Clean and intuitive design.
